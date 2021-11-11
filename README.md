@@ -1,0 +1,1 @@
+CRUD Simples usando next, react, tailwind e firebase 🔥
